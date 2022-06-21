@@ -41,3 +41,7 @@ body{
   font-size: 42px;
   margin-bottom: 0;
 }
+
+.box p{
+  color: rgba(255, 255, 255, 0.747);
+}
